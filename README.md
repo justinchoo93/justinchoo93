@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Justin 👋
+
+Software Engineer and specialist in building SPAs with React.js for frontend and Node.js for backend systems. 
+
+Advocate of scalable systems and modular design patterns with RESTful APIs and Flux architecture. 
+
+Recent talks include perspective and analysis of modern React frameworks including Next.js and Gatsby.js, as well as a trending state management library, Apollo Client.
+
+I'm actively looking for ways to contribute to open-source projects!
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/justinchoo93/) 
 
 <!--
 **justinchoo93/justinchoo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
