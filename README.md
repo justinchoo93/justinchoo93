@@ -1,6 +1,6 @@
 ## Justin Choo
 
-Software Engineer and specialist in building SPAs with React.js for frontend and Node.js for backend systems. 
+Software Engineer and specialist in building SPAs with React for frontend and Node.js for backend systems. 
 
 Advocate of scalable systems and modular design patterns with RESTful APIs and Flux architecture. 
 
