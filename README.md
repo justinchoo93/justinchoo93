@@ -1,4 +1,4 @@
-### Hi there, I'm Justin 👋
+## Justin Choo
 
 Software Engineer and specialist in building SPAs with React.js for frontend and Node.js for backend systems. 
 
@@ -8,7 +8,7 @@ Recent talks include perspective and analysis of modern React frameworks includi
 
 I'm actively looking for ways to contribute to open-source projects!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/justinchoo93/) 📫
+Connect with me on [LinkedIn](https://www.linkedin.com/in/justinchoo93/)
 
 <!--
 **justinchoo93/justinchoo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
