@@ -1,8 +1,6 @@
 ## Justin Choo
 
-Software Engineer and specialist in building SPAs with React for frontend and Node.js for backend systems. 
-
-Advocate of scalable systems and modular design patterns with RESTful APIs and Flux architecture. 
+Software Engineer and specialist in developing highly-engaging user experiences with React and Node. Advocate of scalable systems and modular design patterns with RESTful APIs and Flux architecture. 
 
 Recent talks include perspective and analysis of modern React frameworks including Next.js and Gatsby.js, as well as a trending state management library, Apollo Client.
 
